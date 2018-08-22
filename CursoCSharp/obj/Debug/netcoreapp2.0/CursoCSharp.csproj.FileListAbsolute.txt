@@ -1,0 +1,11 @@
+/Users/arthuroliveira/Documents/GitHub/curso-c-sharp/CursoCSharp/CursoCSharp/bin/Debug/netcoreapp2.0/CursoCSharp.deps.json
+/Users/arthuroliveira/Documents/GitHub/curso-c-sharp/CursoCSharp/CursoCSharp/bin/Debug/netcoreapp2.0/CursoCSharp.runtimeconfig.json
+/Users/arthuroliveira/Documents/GitHub/curso-c-sharp/CursoCSharp/CursoCSharp/bin/Debug/netcoreapp2.0/CursoCSharp.runtimeconfig.dev.json
+/Users/arthuroliveira/Documents/GitHub/curso-c-sharp/CursoCSharp/CursoCSharp/bin/Debug/netcoreapp2.0/CursoCSharp.dll
+/Users/arthuroliveira/Documents/GitHub/curso-c-sharp/CursoCSharp/CursoCSharp/bin/Debug/netcoreapp2.0/CursoCSharp.pdb
+/Users/arthuroliveira/Documents/GitHub/curso-c-sharp/CursoCSharp/CursoCSharp/obj/Debug/netcoreapp2.0/CursoCSharp.csprojResolveAssemblyReference.cache
+/Users/arthuroliveira/Documents/GitHub/curso-c-sharp/CursoCSharp/CursoCSharp/obj/Debug/netcoreapp2.0/CursoCSharp.csproj.CoreCompileInputs.cache
+/Users/arthuroliveira/Documents/GitHub/curso-c-sharp/CursoCSharp/CursoCSharp/obj/Debug/netcoreapp2.0/CursoCSharp.AssemblyInfoInputs.cache
+/Users/arthuroliveira/Documents/GitHub/curso-c-sharp/CursoCSharp/CursoCSharp/obj/Debug/netcoreapp2.0/CursoCSharp.AssemblyInfo.cs
+/Users/arthuroliveira/Documents/GitHub/curso-c-sharp/CursoCSharp/CursoCSharp/obj/Debug/netcoreapp2.0/CursoCSharp.dll
+/Users/arthuroliveira/Documents/GitHub/curso-c-sharp/CursoCSharp/CursoCSharp/obj/Debug/netcoreapp2.0/CursoCSharp.pdb
